@@ -1,4 +1,4 @@
-call npm docs:build
+call npm run docs:build
 cd docs/.vitepress/dist
 git init
 git add -A
