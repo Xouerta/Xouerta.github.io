@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s}from"./chunks/framework.p2VkXzrt.js";const p=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"others/snowflake/12kills.md","filePath":"others/snowflake/12kills.md"}'),a={name:"others/snowflake/12kills.md"};function o(r,l,n,c,i,_){return s(),t("div")}const d=e(a,[["render",o]]);export{p as __pageData,d as default};
