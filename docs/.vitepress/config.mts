@@ -41,7 +41,7 @@ export default defineConfig({
     sidebar: [
       {        text: '导航',
         items: [
-          { text: '啊，我要回家', link: '/index' },
+          { text: '回到主页', link: '/index' },
           { text: '前端学习', link: '/learn/frontpage/html' },
           { text: '前端框架学习', link: '/learn/flameworks/main' },
           { text: 'SSR实战', link: '/learn/ssr/ssr' },
