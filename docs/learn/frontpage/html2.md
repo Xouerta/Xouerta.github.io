@@ -3,16 +3,16 @@
 ## 1.h5新元素
 ```html
 <canvas></canvas>//标签定义图形
-<audio>//音频源
-<video>//视频源
-<source src="">//定义多媒体源
-<track src=""> //视频字幕
+<audio/>//音频源
+<video/>//视频源
+<source src=""/>//定义多媒体源
+<track src=""/> //视频字幕
 <embed>//嵌入外部插件
 
 //新表单
 <datalist></datalist>//定义下拉列表
-<keygen>//生成密钥
-<output>//输出
+<keygen/>//生成密钥
+<output/>//输出
 
 ```
 ## canvas
