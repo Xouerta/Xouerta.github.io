@@ -5,8 +5,8 @@
 <canvas></canvas>//标签定义图形
 <audio>//音频源
 <video>//视频源
-<source>//定义多媒体源
-<track> //视频字幕
+<source src="">//定义多媒体源
+<track src=""> //视频字幕
 <embed>//嵌入外部插件
 
 //新表单
