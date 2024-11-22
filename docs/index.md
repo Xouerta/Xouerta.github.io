@@ -26,12 +26,12 @@ features:
     link: /learn/backend/backmain
   - title: SSR实战
     details: 关于服务端渲染（SSR）的一些尝试
-    link: /learn/ssr
+    link: /learn/ssr/ssr
   - title: 一些其他的胡乱尝试以及胡思乱想
     details: C语言，C++，python，java，go，这些都尝试过，但是...
-    link: /others/daydream
+    link: /others/daydream/daydreamain
   - title: 雪花片片
     details: 写的一些烂尾文章，以此铭记我的那些愚蠢或天真的想法
-    link: /others/snowflake/
+    link: /others/snowflake/snowmain
 ---
 
