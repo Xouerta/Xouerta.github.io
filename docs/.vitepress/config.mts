@@ -1,7 +1,8 @@
 import { defineConfig } from 'vitepress'
-
+const base = '/Xouerta.github.io/';
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  base,
   title: "Xouerta's blog",
   description: "A VitePress Site",
   themeConfig: {
