@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as n}from"./chunks/framework.BhWNuinB.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"learn/backend/nodejs.md","filePath":"learn/backend/nodejs.md"}'),t={name:"learn/backend/nodejs.md"};function o(r,s,c,d,p,_){return n(),a("div")}const m=e(t,[["render",o]]);export{l as __pageData,m as default};
