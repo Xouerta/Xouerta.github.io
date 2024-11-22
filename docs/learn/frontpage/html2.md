@@ -54,15 +54,6 @@ ctx.stroke();
 * 直接使用<svg>标签，就可以将其嵌入到HTML里
 * svg使用xml绘制图像，而canvas使用js绘制图像
 
-- transform: 应用到元素上的变换。
-- x, y: 元素的位置。
-- width, height: 元素的尺寸。
-- fill: 填充颜色。
-- stroke: 描边颜色。
-- stroke-width: 描边宽度。
-* opacity: 透明度。
-- visibility: 元素的可见性。
-
 ## localstorage
 - 本地存储，可以存储一些数据，但是只能存储字符串，并且只能存储在浏览器里，不能在服务器上，所以可以用来存储一些用户信息，比如用户名，密码等。
 - 存储的数据会一直存在，直到用户清除缓存，或者被删除。原来用的是cookie，但是cookie的大小有限制，而localstorage没有
