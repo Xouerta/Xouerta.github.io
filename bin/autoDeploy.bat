@@ -1,4 +1,4 @@
-call npm run docs:build --force
+call npm run docs:build
 
 cd docs/.vitepress/dist
 
