@@ -60,7 +60,7 @@ ctx.stroke();
 - fill: 填充颜色。
 - stroke: 描边颜色。
 - stroke-width: 描边宽度。
-- opacity: 透明度。
+* opacity: 透明度。
 - visibility: 元素的可见性。
 
 ## localstorage
