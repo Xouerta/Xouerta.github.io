@@ -1,1 +1,1 @@
-# 由于vitepress 构建的一些不可抗力因素，更新暂停，等博客全部写好后，进行统一构建并打包上传服务器
+现项目已经迁移到Xouertahome仓库，访问网站：https://xouerta.github.io/Xouertahome
